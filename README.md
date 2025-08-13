@@ -38,5 +38,7 @@ Business Impact: Targeted marketing and product recommendations by age group.
 Business problem solved: Sales fluctuations go unnoticed
 Business Impact: Plan inventory and marketing according to seasonal trends
 
+![WhatsApp Image 2025-08-12 at 22 10 30](https://github.com/user-attachments/assets/f7201f10-48e8-4a99-b147-5f87ddade25d)
+
 Business problem solved: Gender -based product preferences
 Business Impact: Personalized ads, gender-focused campaigns.
