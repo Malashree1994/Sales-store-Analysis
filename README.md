@@ -1,5 +1,5 @@
                                Store Sales Analysis 
-                               ![WhatsApp Image 2025-08-12 at 22 10 30](https://github.com/user-attachments/assets/d05fc2f8-e725-4022-8632-7f0d3368d7a5)
+                             
 
 Problem statement:
 1) we don’t know which products are most in demand.
@@ -41,6 +41,8 @@ Business Impact: Targeted marketing and product recommendations by age group.
 
 Business problem solved: Sales fluctuations go unnoticed
 Business Impact: Plan inventory and marketing according to seasonal trends
+![WhatsApp Image 2025-08-12 at 22 10 30](https://github.com/user-attachments/assets/aadb8311-77a7-4b25-90d7-9a6c8657659f)
+
 
 Business problem solved: Gender -based product preferences
 Business Impact: Personalized ads, gender-focused campaigns.
